@@ -3,10 +3,10 @@
   "$schema": "../../card.schema.json",
   "name": "Aland",
   "title": "Culer for Life 🔵🔴",
-  "image": "barcelona2.gif",
-  "imageFit": "contain",
+  "image": "barcelona4.gif",
+  "imageFit": "cover",
   "imagePosition": "center",
-  "emoji": "⚽",
+  "emoji": "🏆",
   "shape": "classic",
   "finish": "holo",
   "pattern": "stripes",
@@ -19,11 +19,11 @@
   },
   "attach": "tape",
   "tilt": -3,
-  "about": "I'm a software engineering student who loves coding, web development, and FC Barcelona. I enjoy building creative projects, learning new technologies, and supporting Barça. Visca el Barça!",
+  "about": "11 YEARS OF WAITING. 11 YEARS OF DREAMING. 2026 IS OUR YEAR! THE SIXTH CHAMPIONS LEAGUE IS COMING HOME. VISCA BARÇA!",
   "facts": [
-    "⚽ Culer for life — Visca Barça!",
-    "💻 Passionate about coding",
-    "🏆 Més que un club"
+    "🏆 THE SIXTH UCL IS CALLING!",
+    "🔵🔴 BLAUGRANA FOREVER!",
+    "❤️ MÉS QUE UN CLUB!"
   ],
   "css": "style.css"
 }
